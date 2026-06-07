@@ -7,9 +7,10 @@ Designed to provide a simple, secure, and user-friendly way to manage daily chec
 
 🚀 **Live Demo:**  https://attendance-app-otbl.onrender.com
 
-## Demo Credentials
+## Demo Credentials🫆
 
-Username: demo
+Username: demo 
+
 Password: demo123
  
 ## ✨ Features
@@ -42,7 +43,7 @@ Password: demo123
 
  #### Login screen
   ![Login Screen](Screenshots/Login_screen.png)
-  #### daily reporting section
+  #### Daily reporting section
   ![Daily reporting section](Screenshots/DailyReporting.png)
   #### Monthly report section
   ![Monthly report](Screenshots/MonthlyReports.png)
