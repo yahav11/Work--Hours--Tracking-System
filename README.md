@@ -39,9 +39,9 @@ Password: demo123
 ---
 
 ## Screenshots
- ![Login Screen](screenshots/Login_screen.png)
- ![Daily reporting section](screenshots/DailyReporting.png)
- ![Monthly report](screenshots/MonthkyReports.png)
+ ![Login Screen](Screenshots/Login_screen.png)
+ ![Daily reporting section](Screenshots/DailyReporting.png)
+ ![Monthly report](Screenshots/MonthkyReports.png)
  
 ---
 ## 🔒 Security (Minimal but intentional)
