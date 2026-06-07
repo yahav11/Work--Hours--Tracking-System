@@ -6,14 +6,12 @@ Designed to provide a simple, secure, and user-friendly way to manage daily chec
 🌍 **Language:** The application interface is fully in **Hebrew**.
 
 🚀 **Live Demo:**  https://attendance-app-otbl.onrender.com
----
+
 ## Demo Credentials
 
 Username: demo
 Password: demo123
-
-## Screenshots
-
+ 
 ## ✨ Features
 
 - 🔐 **Authentication system**
@@ -40,6 +38,12 @@ Password: demo123
 
 ---
 
+## Screenshots
+ ![Login Screen](screenshots/Login_screen.png)
+ ![Daily reporting section](screenshots/DailyReporting.png)
+ ![Monthly report](screenshots/MonthkyReports.png)
+ 
+---
 ## 🔒 Security (Minimal but intentional)
 
 This project implements foundational security practices:
