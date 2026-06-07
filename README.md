@@ -5,7 +5,7 @@ Designed to provide a simple, secure, and user-friendly way to manage daily chec
 
 🌍 **Language:** The application interface is fully in **Hebrew**.
 
-🚀 **Live Demo:**  https://attendance-app-otbl.onrender.com
+🚀 **Live Demo:**  [https://attendance-app-otbl.onrender.com](https://attendance-app-otbl.onrender.com)
 
 ## Demo Credentials🫆
 
