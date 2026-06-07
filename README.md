@@ -40,11 +40,11 @@ Password: demo123
 
 ## Screenshots
 
- ####Login screen
+ #### Login screen
   ![Login Screen](Screenshots/Login_screen.png)
-  ####daily reporting section
+  #### daily reporting section
   ![Daily reporting section](Screenshots/DailyReporting.png)
-  ####Monthly report section
+  #### Monthly report section
   ![Monthly report](Screenshots/MonthlyReports.png)
  
 ---
