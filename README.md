@@ -7,6 +7,12 @@ Designed to provide a simple, secure, and user-friendly way to manage daily chec
 
 🚀 **Live Demo:**  https://attendance-app-otbl.onrender.com
 ---
+## Demo Credentials
+
+Username: demo
+Password: demo123
+
+## Screenshots
 
 ## ✨ Features
 
